@@ -8,3 +8,5 @@ Using the most complete and curated dataset of the Cretan arthropds here we inve
 * glmms 
 
 
+![Meme open data and reproducibility](meme_arthropods_sequel.jpg)
+
